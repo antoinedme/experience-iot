@@ -12,8 +12,6 @@ Three general parameters have been selected for observation, each one related to
 - Mobility: physical activity, going-out frequency and going-out length
 - Activity of Daily Living: meals frequency, sleep activity, vital signs
 
-![Singapore Deployments](https://raw.githubusercontent.com/antoinedme/experience-iot/master/img/02-deployments.png) 
-
 Different set of technology are deployed to fit better with the elderly needs and challenges:
 - Indoor monitoring for the more frail ones (and/or homebound): motion sensors for each living space, contact sensors for smart objects, sleep mat with vital signs monitoring features)
 - Outdoor Monitoring for the more active one: lifestyle using wearable Internet-of-Things technology
