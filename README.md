@@ -1,7 +1,9 @@
 
 ## Experience in deploying IoT technologies for elderly friendly Smart Cities.
 
-Many city-dwelling elderly people can be greatly affected after a minor change in their living or health conditions. Also, nutrition and pollution became a major factor of health across the world. Metabolic diseases, quality of life (impairments) and respiratory disease are among the most common risks. Through the new wave of Information and Communication Technologies (ICT), Internet of Things (IoT) and Smart City systems, it is now possible to help individuals capture and make use of their personal data in a way that will help them maintain healthy and independent for longer. 
+Many city-dwelling elderly people can be greatly affected after a minor change in their living or health conditions. Also, nutrition and pollution became a major factor of health across the world. Metabolic diseases, quality of life (impairments) and respiratory disease are among the most common risks. 
+
+Through the new wave of Information and Communication Technologies (ICT), Internet of Things (IoT) and Smart City systems, it is now possible to help individuals capture and make use of their personal data in a way that will help them maintain healthy and independent for longer. 
 
 ![Opening Antoine de Marasse](https://raw.githubusercontent.com/antoinedme/experience-iot/master/img/01-title.png) 
 
@@ -11,6 +13,8 @@ Three general parameters have been selected for observation, each one related to
 - Socialization: place of interest visits, senior activity centre visits frequency, activities attended
 - Mobility: physical activity, going-out frequency and going-out length
 - Activity of Daily Living: meals frequency, sleep activity, vital signs
+
+**The UbiSmart platform** makes use of standard commercialized sensors producing events, a gateway UbiGate that relays the structured event data to the main component – the Server written in Node.js. Eventually, notifications are sent to other devices as part of Service Provisioning. The reasoning is situated in the server: incoming events are stored in a database, translated in triples using Notation3 format and queued to be processed within the reasoning cycle. 
 
 Different set of technology are deployed to fit better with the elderly needs and challenges:
 - Indoor monitoring for the more frail ones (and/or homebound): motion sensors for each living space, contact sensors for smart objects, sleep mat with vital signs monitoring features)
