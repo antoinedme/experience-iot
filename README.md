@@ -12,13 +12,18 @@ How do we keep our elders safe and well within the community?
 Three general parameters have been selected for observation, each one related to different activities detection:
 - Socialization: place of interest visits, senior activity centre visits frequency, activities attended
 - Mobility: physical activity, going-out frequency and going-out length
-- Activity of Daily Living: meals frequency, sleep activity, vital signs
+- Activity of Daily Living: meals frequency, sleep activity, vital signs.
+
+The objectives of this technology deployments is done with the aim of:
+- Keeping the elderly safe and well within the community while empowering caregivers with technology tools to help in their daily work
+- Extending the living space for elderly, encouraging them to perform outdoor activities 
+- Enhancing physical activity of the elderly using wearable technologies  
 
 **The UbiSmart platform** makes use of standard commercialized sensors producing events, a gateway UbiGate that relays the structured event data to the main component – the Server written in Node.js. Eventually, notifications are sent to other devices as part of Service Provisioning. The reasoning is situated in the server: incoming events are stored in a database, translated in triples using Notation3 format and queued to be processed within the reasoning cycle. 
 
 Different set of technology are deployed to fit better with the elderly needs and challenges:
-- Indoor monitoring for the more frail ones (and/or homebound): motion sensors for each living space, contact sensors for smart objects, sleep mat with vital signs monitoring features)
-- Outdoor Monitoring for the more active one: lifestyle using wearable Internet-of-Things technology
+- The indoor unobtrusive technology set is composed of 1 sleep mat, 2 contact sensors and 3 motion sensors. This set of devices enables the data collection of simple daily activities and processed them to the UbiSmart reasoning engine in order to extract meaningful information about Activities of Daily Living and lifestyle performances.
+- Internet-of-Things and outdoor technologies: In order to involve more people in the projects, together with healthy elderly and active elderly population, the team developed internally an Android application that integrates an activity tracker data (Fitbit WebAPIs).
 
 ![Pilots Technology](https://raw.githubusercontent.com/antoinedme/experience-iot/master/img/03-technology.png)
 
@@ -32,5 +37,12 @@ Using the described knowledge base KB, the framework applies rules that conclude
 
 Different set of visualizations and tools are being implemented in order to provide more accurate and meaningful data. More importantly, the participants have access to some relevant data that impact their daily life such as climate and air pollution in the context of their geographical position and mobility context. 
 
+The app cross together different kind of data to help the user choose the most, context-aware, appropriate mobility solution, from active mobility (walk, bike, e-scooter) to passive mobility (bus and MRT). The data retrieved in the app are from the various sources:
+- Fitbit Data (steps, distances, calories, sleep and vital signs data)
+- Environment data (climate, air pollution, weather forecast)
+- Places of Interests (healthy eateries, sport events, gyms, parks)
+
+Following the user’s profile (age, gender, weight, height) and conditions (e.g. asthmatic, allergies, diabetic, disabled), the system will generate personalized recommendation of mobility together with necessary indications (locations of bikes, bus schedules, availability of e-scooters).
 
 
+Antoine de Marassé https://www.linkedin.com/in/hiantoine/
