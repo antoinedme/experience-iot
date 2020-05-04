@@ -37,12 +37,17 @@ Using the described knowledge base KB, the framework applies rules that conclude
 
 Different set of visualizations and tools are being implemented in order to provide more accurate and meaningful data. More importantly, the participants have access to some relevant data that impact their daily life such as climate and air pollution in the context of their geographical position and mobility context. 
 
+
+![Final Sensors](https://raw.githubusercontent.com/antoinedme/experience-iot/master/img/04-sensors.png)
+
+
 The app cross together different kind of data to help the user choose the most, context-aware, appropriate mobility solution, from active mobility (walk, bike, e-scooter) to passive mobility (bus and MRT). The data retrieved in the app are from the various sources:
 - Fitbit Data (steps, distances, calories, sleep and vital signs data)
 - Environment data (climate, air pollution, weather forecast)
 - Places of Interests (healthy eateries, sport events, gyms, parks)
 
 Following the user’s profile (age, gender, weight, height) and conditions (e.g. asthmatic, allergies, diabetic, disabled), the system will generate personalized recommendation of mobility together with necessary indications (locations of bikes, bus schedules, availability of e-scooters).
+
 
 
 Antoine de Marassé https://www.linkedin.com/in/hiantoine/
