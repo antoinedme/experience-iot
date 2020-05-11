@@ -48,6 +48,8 @@ The app cross together different kind of data to help the user choose the most, 
 
 Following the user’s profile (age, gender, weight, height) and conditions (e.g. asthmatic, allergies, diabetic, disabled), the system will generate personalized recommendation of mobility together with necessary indications (locations of bikes, bus schedules, availability of e-scooters).
 
+[embed]hci-poster-antoine-demarasse.pdf[/embed]
+![Poster](blob:null/297e55f4-8b9f-d14c-ad2f-286ffd03a244)
 
 
 Antoine de Marassé https://www.linkedin.com/in/hiantoine/
