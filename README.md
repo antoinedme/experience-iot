@@ -8,6 +8,7 @@ Through the new wave of Information and Communication Technologies (ICT), Intern
 ![Opening Antoine de Marasse](https://raw.githubusercontent.com/antoinedme/experience-iot/master/img/01-title.png) 
 
 - [How do we keep our elders safe and well within the community? ](https://github.com/antoinedme/titanic-dataset-ml#history-of-the-rms-titanic-passenger-liner)
+- [How do we keep our elders safe and well within the community? ](https://github.com/antoinedme/titanic-dataset-ml#history-of-the-rms-titanic-passenger-liner)
 
 ### How do we keep our elders safe and well within the community? 
 
@@ -21,7 +22,9 @@ The objectives of this technology deployments is done with the aim of:
 - Extending the living space for elderly, encouraging them to perform outdoor activities 
 - Enhancing physical activity of the elderly using wearable technologies  
 
-**The UbiSmart platform** makes use of standard commercialized sensors producing events, a gateway UbiGate that relays the structured event data to the main component – the Server written in Node.js. Eventually, notifications are sent to other devices as part of Service Provisioning. The reasoning is situated in the server: incoming events are stored in a database, translated in triples using Notation3 format and queued to be processed within the reasoning cycle. 
+### Ubiquitous Service MAnagement and Reasoning archiTecture
+
+The Ubiquitous Service MAnagement and Reasoning archiTecture (UbiSmart) platform makes use of standard commercialized sensors producing events, a gateway UbiGate that relays the structured event data to the main component – the Server written in Node.js. Eventually, notifications are sent to other devices as part of Service Provisioning. The reasoning is situated in the server: incoming events are stored in a database, translated in triples using Notation3 format and queued to be processed within the reasoning cycle. 
 
 Different set of technology are deployed to fit better with the elderly needs and challenges:
 - The indoor unobtrusive technology set is composed of 1 sleep mat, 2 contact sensors and 3 motion sensors. This set of devices enables the data collection of simple daily activities and processed them to the UbiSmart reasoning engine in order to extract meaningful information about Activities of Daily Living and lifestyle performances.
@@ -29,19 +32,18 @@ Different set of technology are deployed to fit better with the elderly needs an
 
 ![Pilots Technology](https://raw.githubusercontent.com/antoinedme/experience-iot/master/img/03-technology.png)
 
+### Ontology and Semantic Web
+
 The ontology in the system has been created manually as well as the rules. They represent a common sense about observations (presence detection in a space, object manipulation) and implied conclusions based on past K=knowledge (the person is in the kitchen, preparing some food, receiving a visitor). 
 - Abstract model: Static ontology describing the world that does not change (sensor type associated to its abilities and characteristics, type and description of detectable activities); 
 - Instance model: Instantiated ontology comprising persisted information that was instan- tiated and has current information (e.g. sensor-room associations, durations of previously detected activity,… );
 - Action: Injected knowledge produced by the sensors or a user interaction. 
 
-
 Using the described knowledge base KB, the framework applies rules that conclude about what the current user’s activity is, computes new durations, updates the persisted information about this instance, and decides about notifications to be sent. The conclusions are passed to software components performing decided actions. The reasoning cycle ends and waits till next event triggering a new cycle. 
 
 Different set of visualizations and tools are being implemented in order to provide more accurate and meaningful data. More importantly, the participants have access to some relevant data that impact their daily life such as climate and air pollution in the context of their geographical position and mobility context. 
 
-
 ![Final Sensors](https://raw.githubusercontent.com/antoinedme/experience-iot/master/img/04-sensors.png)
-
 
 The app cross together different kind of data to help the user choose the most, context-aware, appropriate mobility solution, from active mobility (walk, bike, e-scooter) to passive mobility (bus and MRT). The data retrieved in the app are from the various sources:
 - Fitbit Data (steps, distances, calories, sleep and vital signs data)
@@ -49,6 +51,8 @@ The app cross together different kind of data to help the user choose the most, 
 - Places of Interests (healthy eateries, sport events, gyms, parks)
 
 Following the user’s profile (age, gender, weight, height) and conditions (e.g. asthmatic, allergies, diabetic, disabled), the system will generate personalized recommendation of mobility together with necessary indications (locations of bikes, bus schedules, availability of e-scooters).
+
+### Poster: Singapore use-case
 
 ![Poster](https://raw.githubusercontent.com/antoinedme/experience-iot/master/img/poster-iot-antoine-demarasse.png)
 
