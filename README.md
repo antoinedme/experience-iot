@@ -7,7 +7,9 @@ Through the new wave of Information and Communication Technologies (ICT), Intern
 
 ![Opening Antoine de Marasse](https://raw.githubusercontent.com/antoinedme/experience-iot/master/img/01-title.png) 
 
-How do we keep our elders safe and well within the community? 
+- [How do we keep our elders safe and well within the community? ](https://github.com/antoinedme/titanic-dataset-ml#history-of-the-rms-titanic-passenger-liner)
+
+### How do we keep our elders safe and well within the community? 
 
 Three general parameters have been selected for observation, each one related to different activities detection:
 - Socialization: place of interest visits, senior activity centre visits frequency, activities attended
