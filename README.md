@@ -11,7 +11,10 @@ Contents:
 - [How do we keep our elders safe and well within the community?](https://github.com/antoinedme/experience-iot/blob/master/README.md#how-do-we-keep-our-elders-safe-and-well-within-the-community)
 - [Ubiquitous Service MAnagement and Reasoning archiTecture](https://github.com/antoinedme/experience-iot/blob/master/README.md#ubiquitous-service-management-and-reasoning-architecture)
 - [Ontology and Semantic Web](https://github.com/antoinedme/experience-iot/blob/master/README.md#ontology-and-semantic-web)
+- [Platform, services and Internet-of-Things](https://github.com/antoinedme/experience-iot/blob/master/README.md#poster-singapore-use-case)
 - [Poster: Singapore use-case](https://github.com/antoinedme/experience-iot/blob/master/README.md#poster-singapore-use-case)
+
+
 
 ### How do we keep our elders safe and well within the community? 
 
@@ -43,6 +46,8 @@ The ontology in the system has been created manually as well as the rules. They 
 - Action: Injected knowledge produced by the sensors or a user interaction. 
 
 Using the described knowledge base KB, the framework applies rules that conclude about what the current user’s activity is, computes new durations, updates the persisted information about this instance, and decides about notifications to be sent. The conclusions are passed to software components performing decided actions. The reasoning cycle ends and waits till next event triggering a new cycle. 
+
+### Platform, services and Internet-of-Things
 
 Different set of visualizations and tools are being implemented in order to provide more accurate and meaningful data. More importantly, the participants have access to some relevant data that impact their daily life such as climate and air pollution in the context of their geographical position and mobility context. 
 
