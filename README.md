@@ -65,6 +65,9 @@ Following the user’s profile (age, gender, weight, height) and conditions (e.g
 ![Poster](https://raw.githubusercontent.com/antoinedme/experience-iot/master/img/poster-iot-antoine-demarasse.png)
 
 #### Creating pilot dashboard for Health
+
+In the repo: https://github.com/antoinedme/pilots_views
+
 `var beacon_SACAntenna = new google.maps.LatLng(1.36459035, 103.85693395);
 var beacon_BusStation3 = new google.maps.LatLng(1.362866, 103.855947);
 var marker_blk406A = new google.maps.Marker({position: beacon_blk406A, map: map, animation: google.maps.Animation.DROP, icon: markerImageCC});`
@@ -93,6 +96,18 @@ Using JS libraries:
 `<script src="../vendors/Flot/jquery.flot.js"></script>`
 `<script src="../vendors/echarts/dist/echarts.min.js"></script>`
 `<script src="../vendors/echarts/map/js/world.js"></script>`
+
+
+In the repo: https://github.com/antoinedme/urban-repository
+
+Using JS libraries:
+`<script src="js/Chart.min.js"></script>`
+`<script src="../vendors/jquery-sparkline/dist/jquery.sparkline.min.js"></script>`
+`<script src="../vendors/Flot/jquery.flot.js"></script>`
+`<script src="../vendors/echarts/dist/echarts.min.js"></script>`
+`<script src="../vendors/echarts/map/js/world.js"></script>`
+
+![alt text](https://raw.githubusercontent.com/antoinedme/urban-repository/master/Pilotswidgets-screenshot.png)
 
 
 Antoine de Marassé https://www.linkedin.com/in/hiantoine/
