@@ -5,17 +5,12 @@ Many city-dwelling elderly people can be greatly affected after a minor change i
 
 Through the new wave of Information and Communication Technologies (ICT), Internet of Things (IoT) and Smart City systems, it is now possible to help individuals capture and make use of their personal data in a way that will help them maintain healthy and independent for longer. 
 
+Direct link to the poster: https://github.com/antoinedme/experience-iot/blob/master/README.md#poster-singapore-use-case
+
+
 ![Opening Antoine de Marasse](https://raw.githubusercontent.com/antoinedme/experience-iot/master/img/01-title.png) 
 
 Contents:
-- [How do we keep our elders safe and well within the community?](https://github.com/antoinedme/experience-iot/blob/master/README.md#how-do-we-keep-our-elders-safe-and-well-within-the-community)
-- [Ubiquitous Service MAnagement and Reasoning archiTecture](https://github.com/antoinedme/experience-iot/blob/master/README.md#ubiquitous-service-management-and-reasoning-architecture)
-- [Ontology and Semantic Web](https://github.com/antoinedme/experience-iot/blob/master/README.md#ontology-and-semantic-web)
-- [Platform, services and Internet-of-Things](https://github.com/antoinedme/experience-iot/blob/master/README.md#platform-services-and-internet-of-things)
-- [Poster: Singapore use-case](https://github.com/antoinedme/experience-iot/blob/master/README.md#poster-singapore-use-case)
-- [Creating pilot dashboard for health](https://github.com/antoinedme/experience-iot/blob/master/README.md#creating-pilot-dashboard-for-health)
-
-
 
 1. [How do we keep our elders safe and well within the community?](https://github.com/antoinedme/experience-iot/blob/master/README.md#how-do-we-keep-our-elders-safe-and-well-within-the-community)
 2. [Smart Living Framework](https://github.com/antoinedme/experience-iot/blob/master/README.md#smart-living-framework)
