@@ -68,7 +68,8 @@ Following the user’s profile (age, gender, weight, height) and conditions (e.g
 
 #### Risk models Calculator
 
-Not activated in this version.
+We use several well known risk assessment models such as the The Framingham Heart Study and the Epidemiology of Cardiovascular Diseases (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4159698/) and Verlato asthma risk assessment models.
+
 ![alt text](https://raw.githubusercontent.com/antoinedme/pilots_views/master/Models-Algorithms.png)
 
 In the repository: https://github.com/antoinedme/pilots_views
