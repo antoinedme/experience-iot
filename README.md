@@ -107,6 +107,14 @@ In the repository: https://github.com/antoinedme/urban-repository
 
 To sum-up, please find this poster:
 
+Abstract. Healthcare & well-being needs a revolution - and it is needed now. In the coming years, the relationship between people and digitized systems is going to change due in large part to the adoption of ambient technologies in daily life and to the considerable development in AI (Artificial Intelligence). This includes emerging 5G technologies, small medical devices, non-invasive new sensing technologies, collaborative robots (e.g. Amazon Echo, Google home, etc.), Internet-of-Things (IoT) applications, and secured data exchange mechanisms (e.g. Blockchain). Over the next 20 years there will be demographic shift from predominantly younger populations to older ones. Current models of care and pathways need to be trans-formed to become more citizen focused as well as to support greater com-munity resilience and sustainability. This will require different approaches to innovation in information technologies to improve quality of life for people as they age, to reduce onset of frailty as well as to better support those with long term conditions employing self-management and prevention strategies. This paper describes on-going project between NUS, IMT, HDB (Housing Development Board), and AXA Insurance, and aiming at pre-serving patient health and avoid deterioration of their quality of life (and also of their families) by fully utilizing disruptive information & communication technologies. Additionally, the goal is to help improve the quality of life of citizens while reducing the health-care expenditure. 
+
+Presented by:
+Antoine de Marassé1, Mounir Mokhtari1, Martin Kodys2, and Hamdi Aloulou3
+1 Institut Mines-Telecom (IMT), France/ National University of Singapore (NUS)
+2 University Grenoble Alpes, France/ IPAL
+3 University of Monastir, Tunisia/ Institut Mines-Telecom, Paris, France
+
 ![Poster](https://raw.githubusercontent.com/antoinedme/experience-iot/master/img/poster-iot-antoine-demarasse.png)
 
 Don't hesitate to contact me via Linkedin:
