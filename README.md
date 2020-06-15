@@ -111,9 +111,10 @@ Abstract. Healthcare & well-being needs a revolution - and it is needed now. In 
 
 Presented by:
 Antoine de Marassé1, Mounir Mokhtari1, Martin Kodys2, and Hamdi Aloulou3
-1 Institut Mines-Telecom (IMT), France/ National University of Singapore (NUS)
-2 University Grenoble Alpes, France/ IPAL
-3 University of Monastir, Tunisia/ Institut Mines-Telecom, Paris, France
+Research groups:
+- 1 Institut Mines-Telecom (IMT), France/ National University of Singapore (NUS)
+- 2 University Grenoble Alpes, France/ IPAL
+- 3 University of Monastir, Tunisia/ Institut Mines-Telecom, Paris, France
 
 ![Poster](https://raw.githubusercontent.com/antoinedme/experience-iot/master/img/poster-iot-antoine-demarasse.png)
 
