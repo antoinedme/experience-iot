@@ -105,6 +105,10 @@ In the repository: https://github.com/antoinedme/urban-repository
 
 ### Poster: Singapore use-case
 
+To sum-up, please find this poster:
+
 ![Poster](https://raw.githubusercontent.com/antoinedme/experience-iot/master/img/poster-iot-antoine-demarasse.png)
+
+Don't hesitate to contact me via Linkedin:
 
 Antoine de Marassé https://www.linkedin.com/in/hiantoine/
