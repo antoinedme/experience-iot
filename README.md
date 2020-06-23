@@ -118,6 +118,6 @@ Research groups:
 
 ![Poster](https://raw.githubusercontent.com/antoinedme/experience-iot/master/img/poster-iot-antoine-demarasse.png)
 
-Don't hesitate to contact me via Linkedin:
+Contact me via Linkedin:
 
 Antoine de Marassé https://www.linkedin.com/in/hiantoine/
