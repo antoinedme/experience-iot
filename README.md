@@ -83,17 +83,29 @@ In the repository: https://github.com/antoinedme/pilots_views
 
 #### Data Plot and visualisations
 
-Visualizing high-dimensional geometry and analyzing multivariate data for profile and survey data,
-serving data from online CSV: https://github.com/antoinedme/SurveyPulseView1/blob/master/PULSEDATAVIEWIMT.csv
-Available data parameters are:
-- `age_group` Participant's age (years old)
-- `bmi_score` Calculated (Body Mass Index), approximate measure of your total body fat
-- `framingham` The Framingham Coronary Heart Disease Risk Score estimates
-- `score` General Well-being Risk Score estimates
-- `monthly_steps` Estimated wearable or declared physical activity
+The main drive for the validation of data collection and the project is to answer the following questions:
+- How to assess the relevance and feasibility of the project?
+- Are we building the right product/service at a citizen and city level?
+- What has been the level of engagement of pilots’ partners? 
+- How is the ecosystem reacting to the project? How to measure this support?
+- How to measure users’ participation, engagement and acceptance?
 
-A point in *n-dimensional* space is represented as a polyline with vertices on the parallel axes; the position of the vertex on the i-th axis corresponds to the i-th coordinate of the point. 
-Used for *statistical considerations* and *cohort identification/selection*.
+In order to go through a strong validation assessment, we need to understand the duality of the project, as seen as the two main project end-users: the participants engaged within each pilot city (involved in data collection through the apps and questionnaires) and the local ecosystem, partners and local stakeholders such as communities, health departments, transport agencies and multiple kind of partners that can make use of the data and tools insights. 
+
+In order to do so, we created dashboards for the data visualisations and visual exploration.
+
+In general, all pilots have used validation guidelines that cover the following key aspects targeted in different capacities depending on the user (e.g. citizen / Policy makers - Public Health / Community leaders) and corresponding systems being validated:
+
+- Functionality: to check if the technology performs all the necessary functions.
+- Usability: focused on the way they are offered.
+- Acceptance: how the users are using the technology (Fitbit; PulsAir app; dashboard).
+- Engagement: concerns how easily they are to adopt and use it and share the aims and outcomes of the PULSE project and feel involved.
+- Effectiveness: concerns how useful the project is perceived to be and if the participants show willingness to change behaviour?
+- Empowerment: what impact does the PulsAir app messages’ have on the participants; does this self-awareness have an impact on their behaviour?
+
+In this project validation, we want to evaluate the impact of the urban context on the participants Quality of Life (QoL). To do so, we use city data (air quality, mobility data, sensors data, neighborhood data), personal data (user profile, chronic diseases, activity data, lifestyle, conditions) and other external data and models results. Example of available data parameters are: `age_group` Participant's age (years old), `bmi_score` Calculated (Body Mass Index), approximate measure of your total body fat, `framingham` The Framingham Coronary Heart Disease Risk Score estimates, `score` General Well-being Risk Score estimates, `monthly_steps` Estimated wearable or declared physical activity.
+
+
 ![alt text](https://raw.githubusercontent.com/antoinedme/pilots_views/master/DataCollection-Cohort.png)
 
 Using JS libraries:
