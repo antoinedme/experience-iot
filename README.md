@@ -10,7 +10,7 @@ Direct link to the poster: https://github.com/antoinedme/experience-iot/blob/mas
 
 ![Opening Antoine de Marasse](https://raw.githubusercontent.com/antoinedme/experience-iot/master/img/01-title.png) 
 
-Contents:
+Workshop's contents:
 
 1. [How do we keep our elders safe and well within the community?](https://github.com/antoinedme/experience-iot/blob/master/README.md#how-do-we-keep-our-elders-safe-and-well-within-the-community)
 2. [Smart Living Framework](https://github.com/antoinedme/experience-iot/blob/master/README.md#smart-living-framework)
