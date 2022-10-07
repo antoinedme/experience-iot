@@ -129,4 +129,4 @@ Research groups:
 
 Contact me via Linkedin:
 
-Antoine de Marassé https://www.linkedin.com/in/hiantoine/
+Antoine de Marassé-Enouf https://www.linkedin.com/in/hiantoine/
